@@ -12,11 +12,15 @@
 	],
 	"Plugins": [
 		{
-			"Name": "Water",
+			"Name": "OnlineSubsystemSteam",
 			"Enabled": true
 		},
 		{
-			"Name": "MultiUserClient",
+			"Name": "AdvancedSessions",
+			"Enabled": true
+		},
+		{
+			"Name": "AdvancedSteamSessions",
 			"Enabled": true
 		}
 	]
