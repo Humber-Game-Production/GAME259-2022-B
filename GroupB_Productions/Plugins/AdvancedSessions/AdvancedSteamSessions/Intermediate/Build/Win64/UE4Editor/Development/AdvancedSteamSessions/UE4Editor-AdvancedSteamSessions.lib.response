@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AdvancedSteamSessions.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Hoang\Documents\GitHub\GAME259-2022-B\GroupB_Productions\Intermediate\Build\Win64\GroupB_ProductionsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Hoang\Documents\GitHub\GAME259-2022-B\GroupB_Productions\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+"C:\Users\Hoang\Documents\GitHub\GAME259-2022-B\GroupB_Productions\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp.obj"
+"C:\Users\Hoang\Documents\GitHub\GAME259-2022-B\GroupB_Productions\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Default.rc2.res"
+/OUT:"C:\Users\Hoang\Documents\GitHub\GAME259-2022-B\GroupB_Productions\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\UE4Editor-AdvancedSteamSessions.lib"
