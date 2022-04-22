@@ -1,21 +1,21 @@
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_427_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsGameInstance.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_427_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedExternalUILibrary.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_427_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedGameSession.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_427_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedIdentityLibrary.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_427_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsLibrary.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_427_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedVoiceLibrary.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_427_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\CreateSessionCallbackProxyAdvanced.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_427_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\EndSessionCallbackProxy.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_427_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\FindFriendSessionCallbackProxy.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_427_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\BlueprintDataDefinitions.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_427_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\GetFriendsCallbackProxy.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_427_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\FindSessionsCallbackProxyAdvanced.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_427_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\GetUserPrivilegeCallbackProxy.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_427_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\LoginUserCallbackProxy.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_427_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\CancelFindSessionsCallbackProxy.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_427_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\LogoutUserCallbackProxy.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_427_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsInterface.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_427_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\SendFriendInviteCallbackProxy.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_427_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedSessionsLibrary.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_427_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\GetRecentPlayersCallbackProxy.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_427_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\UpdateSessionCallbackProxyAdvanced.h
+G:\Test\GAME259-2022-B\GroupB_Productions\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsLibrary.h
+G:\Test\GAME259-2022-B\GroupB_Productions\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedExternalUILibrary.h
+G:\Test\GAME259-2022-B\GroupB_Productions\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsInterface.h
+G:\Test\GAME259-2022-B\GroupB_Productions\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedGameSession.h
+G:\Test\GAME259-2022-B\GroupB_Productions\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedSessionsLibrary.h
+G:\Test\GAME259-2022-B\GroupB_Productions\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedVoiceLibrary.h
+G:\Test\GAME259-2022-B\GroupB_Productions\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsGameInstance.h
+G:\Test\GAME259-2022-B\GroupB_Productions\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedIdentityLibrary.h
+G:\Test\GAME259-2022-B\GroupB_Productions\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\GetRecentPlayersCallbackProxy.h
+G:\Test\GAME259-2022-B\GroupB_Productions\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\LoginUserCallbackProxy.h
+G:\Test\GAME259-2022-B\GroupB_Productions\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\CreateSessionCallbackProxyAdvanced.h
+G:\Test\GAME259-2022-B\GroupB_Productions\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\UpdateSessionCallbackProxyAdvanced.h
+G:\Test\GAME259-2022-B\GroupB_Productions\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\BlueprintDataDefinitions.h
+G:\Test\GAME259-2022-B\GroupB_Productions\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\GetUserPrivilegeCallbackProxy.h
+G:\Test\GAME259-2022-B\GroupB_Productions\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\CancelFindSessionsCallbackProxy.h
+G:\Test\GAME259-2022-B\GroupB_Productions\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\EndSessionCallbackProxy.h
+G:\Test\GAME259-2022-B\GroupB_Productions\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\GetFriendsCallbackProxy.h
+G:\Test\GAME259-2022-B\GroupB_Productions\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\FindSessionsCallbackProxyAdvanced.h
+G:\Test\GAME259-2022-B\GroupB_Productions\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\FindFriendSessionCallbackProxy.h
+G:\Test\GAME259-2022-B\GroupB_Productions\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\LogoutUserCallbackProxy.h
+G:\Test\GAME259-2022-B\GroupB_Productions\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\SendFriendInviteCallbackProxy.h
